@@ -9,7 +9,8 @@
 
 ## Contents
 
-- [Total Problem (1 ~ 39) ](https://github.com/DongjunLee/EulerProject/blob/master/Project%20Euler.ipynb)
-- [Problem 1 ~ 10](https://github.com/DongjunLee/EulerProject/blob/master/Project_Euler_Problem_1~10.ipynb)
-- [Problem 11 ~ 20](https://github.com/DongjunLee/EulerProject/blob/master/Project_Euler_Problem_11~20.ipynb)
-- [Problem 21 ~ 30](https://github.com/DongjunLee/EulerProject/blob/master/Project_Euler_Problem_21~30.ipynb)
+- [Total Problem (1 ~ 40) ](Project%20Euler.ipynb)
+- [Problem 1 ~ 10](Project_Euler_Problem_1~10.ipynb)
+- [Problem 11 ~ 20](Project_Euler_Problem_11~20.ipynb)
+- [Problem 21 ~ 30](Project_Euler_Problem_21~30.ipynb)
+- [Problem 31 ~ 40](Project_Euler_Problem_31~40.ipynb)
