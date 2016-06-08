@@ -14,3 +14,4 @@
 - [Problem 21 ~ 30](Project_Euler_Problem_21~30.ipynb)
 - [Problem 31 ~ 40](Project_Euler_Problem_31~40.ipynb)
 - [Problem 41 ~ 50](Project_Euler_Problem_41~50.ipynb)
+- [Problem 51](Project_Euler_Problem_51.ipynb)
